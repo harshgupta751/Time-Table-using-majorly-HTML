@@ -1,1 +1,1 @@
-# Time-Table-using-majorly-HTML
+Time-Table using majorly HTML
